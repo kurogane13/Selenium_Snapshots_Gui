@@ -26,8 +26,8 @@ How to setup and run the program
 1. Clone or Download the repo (git clone https://github.com/kurogane13/Selenium_Snapshots_Gui.git)
 
 2. Copy the Selenium Webdrivers for firefox and chrome to the /usr/bin path:
-   2.1 sudo cp geckodriver /usr/bin
-   2.2 sudo cp chromedriver /usr/bin
+   - sudo cp geckodriver /usr/bin
+   - sudo cp chromedriver /usr/bin
    
 3. Import the following python libraries:
    - import os
